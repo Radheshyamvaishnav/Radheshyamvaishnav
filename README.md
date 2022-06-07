@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&duration=6000&color=D4D4F7&multiline=true&width=1000&height=30&lines=I'm+Radheshyam+Vaishnav%2C+A+Software+Developer%2C+From+Mumbai%2C+India)](https://git.io/typing-svg)
 
->>> Two coffee mugs☕, Some stubborn bugs🐜, Some coding bytes👨🏻‍💻, Is story behind programmers endless nights
+>>> <i>Two coffee mugs☕, Some stubborn bugs🐜, Some coding bytes👨🏻‍💻, Is story behind programmers endless nights</i>
 
 [![Try Fun](https://media.giphy.com/media/cl83qB3OpgHZToeA6h/giphy.gif)](https://radheshyamvaishnav.github.io/)
 
