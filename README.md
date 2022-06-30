@@ -17,5 +17,5 @@ ___Let Us Connect @___
                                                    
 ___Check My Portfolio @___
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/radheshyamvaishnav/radheshyam-vaishnav-portfolio/main/Resume.py)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://radheshyamvaishnav-radheshyam-vaishnav-portfolio-resume-z3x675.streamlitapp.com/)
 
