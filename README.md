@@ -19,3 +19,7 @@ ___Check My Portfolio @___
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://radheshyamvaishnav-radheshyam-vaishnav-portfolio-resume-z3x675.streamlitapp.com/)
 
+
+## Recently i got chance to get featured in Githuvb Yearbook 2022. 
+
+[![Foo](https://img.icons8.com/ios-filled/50/000000/github.png)](https://education.github.com/graduation/yearbook?sort=az&page=16&search=Radheshyamvaishnav#Radheshyamvaishnav)
